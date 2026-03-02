@@ -1,4 +1,4 @@
-# INVISTIS — Real-Time Crypto Intelligence Pipeline
+#  Real-Time Crypto Intelligence Pipeline
 
 > Pipeline de données temps réel pour l'investissement en cryptomonnaies  
 > **DATA NEXT** × **INVISTIS** — Février 2026
